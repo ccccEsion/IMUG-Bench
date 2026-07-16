@@ -1,0 +1,719 @@
+{"domain": "Apparel", "subdomain": "background_replacement", "sample_id": "19", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "1", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "10", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "11", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "12", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "13", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "14", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "15", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "16", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "17", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "18", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "19", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "2", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "20", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "21", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "22", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "23", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "24", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "25", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "26", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "3", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "4", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "5", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "6", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "7", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "8", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "full_body_extension", "sample_id": "9", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Apparel", "subdomain": "garment_replacement", "sample_id": "21", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Apparel", "subdomain": "garment_replacement", "sample_id": "24", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Apparel", "subdomain": "gender_swapping", "sample_id": "12", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Apparel", "subdomain": "gender_swapping", "sample_id": "38", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Apparel", "subdomain": "pose_alteration", "sample_id": "44", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Apparel", "subdomain": "pose_alteration", "sample_id": "45", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "1", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "10", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "11", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "12", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "13", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "14", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "15", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "2", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "3", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "4", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "5", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "6", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "7", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "8", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "natural_growth", "sample_id": "9", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "1", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "10", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "11", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "12", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "13", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "14", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "15", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "16", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "17", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "18", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "19", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "2", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "20", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "3", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "4", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "5", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "6", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "7", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "8", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Botany", "subdomain": "tropisms", "sample_id": "9", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "1", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "10", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "11", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "12", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "13", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "14", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "15", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "16", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "17", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "18", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "19", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "2", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "20", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "21", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "22", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "23", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "24", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "25", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "26", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "27", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "28", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "29", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "3", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "30", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "4", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "5", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "6", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "7", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "8", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "additive_lighting_mixing", "sample_id": "9", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "1", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "10", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "11", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "12", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "13", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "14", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "15", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "16", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "17", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "18", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "19", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "2", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "20", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "21", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "22", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "23", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "24", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "25", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "26", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "27", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "28", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "29", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "3", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "30", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "4", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "5", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "6", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "7", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "8", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "liquid_color_mixing", "sample_id": "9", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "1", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "10", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "11", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "12", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "13", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "14", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "15", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "16", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "17", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "18", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "19", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "2", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "20", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "21", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "22", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "23", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "24", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "25", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "26", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "27", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "28", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "29", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "3", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "30", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "4", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "5", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "6", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "7", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "8", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Color_Reasoning", "subdomain": "subtractive_color_mixing", "sample_id": "9", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "1", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "10", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "11", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "12", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "13", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "14", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "15", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "16", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "17", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "18", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "19", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "2", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "20", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "21", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "22", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "23", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "24", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "25", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "26", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "27", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "28", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "29", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "3", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "30", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "31", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "32", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "33", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "34", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "35", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "36", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "37", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "38", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "39", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "4", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "40", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "41", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "42", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "43", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "44", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "45", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "46", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "47", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "48", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "49", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "5", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "50", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "6", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "7", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "8", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Damage_Repair", "subdomain": "rust_restoration", "sample_id": "9", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "1", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "10", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "11", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "12", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "13", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "14", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "15", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "16", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "17", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "18", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "19", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "2", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "20", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "21", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "22", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "23", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "24", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "25", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "26", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "27", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "28", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "29", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "3", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "30", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "4", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "5", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "6", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "7", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "8", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "9", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "1", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "10", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "11", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "12", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "13", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "14", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "15", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "16", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "17", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "18", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "19", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "2", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "20", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "21", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "22", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "23", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "24", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "25", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "26", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "27", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "28", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "29", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "3", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "30", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "31", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "32", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "33", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "34", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "35", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "36", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "37", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "38", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "39", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "4", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "40", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "5", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "6", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "7", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "8", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "artwork_addition", "sample_id": "9", "turn_idx": 6, "ref_turn_idxs": [5]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "1", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "10", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "11", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "12", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "13", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "14", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "15", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "16", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "17", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "18", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "19", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "2", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "20", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "21", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "22", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "23", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "24", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "25", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "26", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "27", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "28", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "29", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "3", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "30", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "31", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "32", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "33", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "34", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "35", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "36", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "37", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "38", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "39", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "4", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "40", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "5", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "6", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "7", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "8", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "9", "turn_idx": 5, "ref_turn_idxs": [4]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "15", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "17", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "18", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "19", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "21", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "22", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "23", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "24", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "26", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "28", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "29", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "30", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "6", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mechanisms", "subdomain": "sliding_mechanism_generation", "sample_id": "7", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "1", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "10", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "11", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "12", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "13", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "14", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "15", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "16", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "17", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "18", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "19", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "2", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "20", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "21", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "22", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "23", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "24", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "25", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "26", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "27", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "28", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "29", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "3", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "30", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "31", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "32", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "33", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "34", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "35", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "36", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "37", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "38", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "39", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "4", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "40", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "5", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "6", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "7", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "8", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Mirror_Reasoning", "subdomain": "mirror_clock_person_composite", "sample_id": "9", "turn_idx": 4, "ref_turn_idxs": [2]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "13", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "17", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "21", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "29", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "31", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "34", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "35", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "36", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "38", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "49", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "consumer_electronics", "sample_id": "6", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "daily_essentials", "sample_id": "2", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "daily_essentials", "sample_id": "6", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "2", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "20", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "26", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "35", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "36", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "42", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "50", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "52", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "55", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "6", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "60", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "61", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "63", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "68", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "furniture_and_interior", "sample_id": "69", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "hardware_tools", "sample_id": "13", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "hardware_tools", "sample_id": "19", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "hardware_tools", "sample_id": "22", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "hardware_tools", "sample_id": "27", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "hardware_tools", "sample_id": "31", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "10", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "11", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "14", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "26", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "28", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "29", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "3", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "32", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "37", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "47", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "5", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "51", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "kitchenware_and_appliances", "sample_id": "55", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "13", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "21", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "22", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "23", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "28", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "34", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "36", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "39", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "41", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "48", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "51", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "54", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "6", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "recreation_and_instruments", "sample_id": "9", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "scientific_and_professional_equip", "sample_id": "13", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "scientific_and_professional_equip", "sample_id": "15", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "scientific_and_professional_equip", "sample_id": "19", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "scientific_and_professional_equip", "sample_id": "2", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "scientific_and_professional_equip", "sample_id": "21", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "scientific_and_professional_equip", "sample_id": "3", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "scientific_and_professional_equip", "sample_id": "32", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "scientific_and_professional_equip", "sample_id": "4", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "scientific_and_professional_equip", "sample_id": "47", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "scientific_and_professional_equip", "sample_id": "8", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "11", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "16", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "25", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "28", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "34", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "35", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "38", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "41", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "49", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "51", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "53", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "6", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "7", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Object_Inference", "subdomain": "stationery_and_office", "sample_id": "8", "turn_idx": 5, "ref_turn_idxs": [3]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "1", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "10", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "11", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "12", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "13", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "14", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "15", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "2", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "3", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "4", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "5", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "6", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "7", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "8", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Paper_Crafting", "subdomain": "origami_sequential_logic", "sample_id": "9", "turn_idx": 6, "ref_turn_idxs": [4]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "1", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "1", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "10", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "10", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "11", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "11", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "12", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "12", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "13", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "13", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "14", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "14", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "15", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "15", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "16", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "16", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "17", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "17", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "18", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "18", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "19", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "19", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "2", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "2", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "20", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "20", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "21", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "21", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "22", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "22", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "23", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "23", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "24", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "24", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "25", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "25", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "26", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "26", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "27", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "27", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "28", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "28", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "29", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "29", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "3", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "3", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "30", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "30", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "31", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "31", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "32", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "32", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "33", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "33", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "34", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "34", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "35", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "35", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "36", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "36", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "37", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "37", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "38", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "38", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "39", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "39", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "4", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "4", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "40", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "40", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "5", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "5", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "6", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "6", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "7", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "7", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "8", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "8", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "9", "turn_idx": 3, "ref_turn_idxs": [2]}
+{"domain": "Physics", "subdomain": "clock_operation", "sample_id": "9", "turn_idx": 4, "ref_turn_idxs": [1]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "1", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "10", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "11", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "12", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "13", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "14", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "15", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "16", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "17", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "18", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "19", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "2", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "20", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "21", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "22", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "23", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "24", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "25", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "26", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "27", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "28", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "29", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "3", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "30", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "4", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "5", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "6", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "7", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "8", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Physics", "subdomain": "magnetism_compare", "sample_id": "9", "turn_idx": 4, "ref_turn_idxs": [3, 2]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "1", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "10", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "11", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "12", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "13", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "14", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "15", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "16", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "17", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "18", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "19", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "2", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "20", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "21", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "22", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "23", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "24", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "25", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "26", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "27", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "28", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "29", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "3", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "30", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "31", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "32", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "33", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "34", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "35", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "36", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "37", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "38", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "39", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "4", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "40", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "41", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "42", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "43", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "44", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "45", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "46", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "47", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "48", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "49", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "5", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "50", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "51", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "52", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "53", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "54", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "55", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "56", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "57", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "58", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "59", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "6", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "60", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "61", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "62", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "63", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "64", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "65", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "66", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "67", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "68", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "7", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "8", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Storage", "subdomain": "elastic_storage", "sample_id": "9", "turn_idx": 4, "ref_turn_idxs": [2, 3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "1", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "10", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "11", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "12", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "13", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "14", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "15", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "16", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "17", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "18", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "19", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "2", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "20", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "21", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "22", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "23", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "24", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "25", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "26", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "27", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "28", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "29", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "3", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "30", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "4", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "5", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "6", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "7", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "8", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Everyday_Tasks", "subdomain": "battery_installation", "sample_id": "9", "turn_idx": 4, "ref_turn_idxs": [3]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "1", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "10", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "11", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "12", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "13", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "14", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "15", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "16", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "17", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "18", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "19", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "2", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "20", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "21", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "22", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "23", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "24", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "25", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "26", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "27", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "28", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "29", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "3", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "30", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "31", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "32", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "33", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "34", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "35", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "36", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "37", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "38", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "39", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "4", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "40", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "5", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "6", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "7", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "8", "turn_idx": 2, "ref_turn_idxs": [1]}
+{"domain": "Interior_Design", "subdomain": "furniture_arrangement", "sample_id": "9", "turn_idx": 2, "ref_turn_idxs": [1]}

@@ -1,0 +1,27 @@
+{
+  "Static Spatial": [
+    "Color_Reasoning",
+    "Apparel",
+    "Interior_Design",
+    "Geometric_Coloring",
+    "Mechanisms",
+    "Object_Inference",
+    "Counterintuitive_Reasoning"
+  ],
+  "Temporal Causal": [
+    "Botany",
+    "Chemistry",
+    "Physics",
+    "Damage_Repair",
+    "Weather"
+  ],
+  "Hybrid": [
+    "Stack_Simulation",
+    "DIY",
+    "Cooking",
+    "Mirror_Reasoning",
+    "Storage",
+    "Paper_Crafting",
+    "Everyday_Tasks"
+  ]
+}
