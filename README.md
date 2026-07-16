@@ -10,9 +10,9 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv%3A2606.09169-B31B1B.svg)](https://arxiv.org/abs/2606.09169)
 [![Status](https://img.shields.io/badge/status-public%20release%20in%20progress-blue)](https://github.com/ccccEsion/IMUG-Bench)
-[![License](https://img.shields.io/badge/license-pending-lightgrey)](#license)
+[![License](https://img.shields.io/badge/license-mixed-lightgrey.svg)](#license)
 
-[Paper](https://arxiv.org/abs/2606.09169) | [Dataset](#dataset) | [Evaluation](#quickstart) | [Results](#results--analysis)
+[Paper](https://arxiv.org/abs/2606.09169) | [Dataset](#dataset) | [Evaluation](#model-evaluation) | [Scoring](#quickstart) | [Results](#results--analysis)
 
 </div>
 
@@ -79,7 +79,11 @@ data/
 config/
   domain_classes.json         # Paper-defined class-to-domain mapping
 scripts/
+  run_evaluation.py          # Unified client for model evaluation
   run_scoring.py              # Interactive end-to-end scoring runner
+  model_servers/              # FastAPI server demonstrations
+    BAGEL_demo.py
+    BLIP3o_demo.py
   auxiliary/
     common.py                 # Shared path, validation, and I/O helpers
     resolve_dynamic_answers.py # Dynamic MCQ answer resolution
@@ -117,6 +121,45 @@ outputs/<model>/
 
 The supporting scorers, prompts, and shared helpers are kept under `scripts/auxiliary/`; they are normally invoked through `run_scoring.py`.
 
+## Model Evaluation
+
+The unified evaluation client sends each sample to a model server one turn at a time. It preserves the ordered multimodal history and expects the server to expose the `/infer` endpoint with the following response format:
+
+```json
+{"response": {"text": "..."}}
+```
+
+For image turns, the response uses a base64-encoded PNG instead:
+
+```json
+{"response": {"image": "<BASE64_PNG>"}}
+```
+
+Start one of the server demonstrations under `scripts/model_servers/`, or provide your own server implementing the same protocol. Model-specific dependencies and checkpoints are not included in this repository.
+
+Example server commands:
+
+```bash
+IMUG_MODEL_PATH=/path/to/model \
+python scripts/model_servers/BAGEL_demo.py --port 8000
+```
+
+```bash
+IMUG_MODEL_PATH=/path/to/model \
+IMUG_PROCESSOR_PATH=/path/to/processor \
+python scripts/model_servers/BLIP3o_demo.py --port 8000
+```
+
+Run evaluation with the model name used in the output directory:
+
+```bash
+python scripts/run_evaluation.py \
+  --model <model> \
+  --api-url http://127.0.0.1:8000/infer
+```
+
+Repeat `--api-url` to distribute requests across multiple compatible server workers. Evaluation results are written to `outputs/model_outputs/<model>/` and can then be processed by `run_scoring.py`.
+
 ## Results & Analysis
 
 The benchmark supports separate analysis of understanding and generation, together with domain-level and turn-wise reporting. The paper finds that image-generation scores can decline as dialogue context grows, exposing the difficulty of maintaining requirements and visual consistency across turns.
@@ -137,13 +180,7 @@ IMUG-Bench spans three classes and 19 domains. The benchmark composition is summ
 
 ## Quickstart
 
-### 1. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Run the Full Scoring Workflow
+### 1. Run the Full Scoring Workflow
 
 Place one or more model-output directories under `outputs/model_outputs/`, then run:
 
@@ -161,7 +198,7 @@ To update the local configuration:
 python scripts/run_scoring.py --reconfigure
 ```
 
-### 3. Run an Offline Pipeline Check
+### 2. Run an Offline Pipeline Check
 
 No API key is required for a structural smoke test. The scoring runner validates the selected model-output directory, starts a temporary localhost OpenAI-compatible random judge server, and runs the standard dynamic-answer and image-scoring clients against it. Results are written to `outputs/smoke_test/<model>/`.
 
@@ -182,7 +219,7 @@ python scripts/run_scoring.py \
 
 The runner creates a temporary local alias for this layout and leaves the original model outputs unchanged.
 
-### 4. Summarize Results
+### 3. Summarize Results
 
 ```bash
 python scripts/auxiliary/summarize_results.py --models <model>
@@ -209,7 +246,13 @@ python scripts/auxiliary/summarize_results.py \
 
 ## License
 
-The license for code and data is being finalized for the public release.
+The benchmark text, annotations, metadata, photographs, and AI-generated images **created by the IMUG-Bench authors** are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Third-party images were collected from publicly available sources under licenses permitting their use in derivative research materials at the time of collection. These images are included solely as integral components of the annotated IMUG-Bench evaluation tasks and are not relicensed by the IMUG-Bench authors.
+
+Users should not extract or redistribute individual third-party images separately from the benchmark.
+
+Because the repository contains materials subject to different licensing terms, its Hugging Face metadata is marked as `license: other`.
 
 ## Contact
 
