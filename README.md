@@ -1,7 +1,5 @@
 <div align="center">
 
-[English](README.md) | [简体中文](README_zh.md)
-
 # IMUG-Bench: Benchmarking Unified Multimodal Models on Interleaved Understanding and Generation
 
 **Lingyi Meng<sup>*1</sup>, Zecong Tang<sup>*†1</sup>, Haoran Li<sup>*1</sup>, Tengju Ru<sup>*1</sup>, Zhejun Cui<sup>1</sup>, Weitong Lian<sup>1</sup>, Qi Kang<sup>1</sup>, Hangshuo Cao<sup>1</sup>, Yichen Zhu<sup>1</sup>, Yechi Liu<sup>3</sup>, Kaixuan Wang<sup>2</sup>, Yu-Jie Yuan<sup>4</sup>, Chunwei Wang<sup>4</sup>, Yu Zhang<sup>‡1</sup>, Bo Dai<sup>‡2</sup>**
