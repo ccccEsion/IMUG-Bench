@@ -9,8 +9,7 @@
 <sup>*</sup>Equal contribution &nbsp; <sup>†</sup>Project leader &nbsp; <sup>‡</sup>Corresponding author
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv%3A2606.09169-B31B1B.svg)](https://arxiv.org/abs/2606.09169)
-[![Status](https://img.shields.io/badge/status-public%20release%20in%20progress-blue)](https://github.com/ccccEsion/IMUG-Bench)
-[![License](https://img.shields.io/badge/license-mixed-lightgrey.svg)](#license)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-IMUG--Bench-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/ccccEsion/IMUG-Bench)
 
 [Paper](https://arxiv.org/abs/2606.09169) | [Dataset](#dataset) | [Evaluation](#model-evaluation) | [Scoring](#quickstart) | [Results](#results--analysis)
 
