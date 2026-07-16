@@ -79,7 +79,7 @@ data/
 config/
   domain_classes.json         # Paper-defined class-to-domain mapping
 scripts/
-  run_evaluation.py           # Interactive end-to-end scoring runner
+  run_scoring.py              # Interactive end-to-end scoring runner
   auxiliary/
     common.py                 # Shared path, validation, and I/O helpers
     resolve_dynamic_answers.py # Dynamic MCQ answer resolution
@@ -115,7 +115,7 @@ outputs/<model>/
   summary/
 ```
 
-The supporting scorers, prompts, and shared helpers are kept under `scripts/auxiliary/`; they are normally invoked through `run_evaluation.py`.
+The supporting scorers, prompts, and shared helpers are kept under `scripts/auxiliary/`; they are normally invoked through `run_scoring.py`.
 
 ## Results & Analysis
 
@@ -148,7 +148,7 @@ pip install -r requirements.txt
 Place one or more model-output directories under `outputs/model_outputs/`, then run:
 
 ```bash
-python scripts/run_evaluation.py
+python scripts/run_scoring.py
 ```
 
 On first use, the runner asks for a judge API base URL, API key, judge model, and model-output directory. These values are stored only in `config/local_config.json`, which is excluded from version control. The workflow runs dynamic-answer resolution, image scoring, deterministic grid scoring, and MCQ scoring in order.
@@ -158,15 +158,15 @@ If `--model-output-dir` itself contains the domain folders for one model, pass t
 To update the local configuration:
 
 ```bash
-python scripts/run_evaluation.py --reconfigure
+python scripts/run_scoring.py --reconfigure
 ```
 
 ### 3. Run an Offline Pipeline Check
 
-No API key is required for a structural smoke test. The evaluation runner validates the selected model-output directory, starts a temporary localhost OpenAI-compatible random judge server, and runs the standard dynamic-answer and image-scoring clients against it. Results are written to `outputs/smoke_test/<model>/`.
+No API key is required for a structural smoke test. The scoring runner validates the selected model-output directory, starts a temporary localhost OpenAI-compatible random judge server, and runs the standard dynamic-answer and image-scoring clients against it. Results are written to `outputs/smoke_test/<model>/`.
 
 ```bash
-python scripts/run_evaluation.py --smoke-test --models <model> --seed 2026
+python scripts/run_scoring.py --smoke-test --models <model> --seed 2026
 ```
 
 Use `--smoke-port <port>` to select the local server port; the default `0` selects an available port automatically.
@@ -174,7 +174,7 @@ Use `--smoke-port <port>` to select the local server port; the default `0` selec
 `--model` is an alias for a single evaluated model directory name. If the selected path itself is the model root and directly contains domain folders, it can be used as follows:
 
 ```bash
-python scripts/run_evaluation.py \
+python scripts/run_scoring.py \
   --smoke-test \
   --model bageltest \
   --model-output-dir ../BAGEL/

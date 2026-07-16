@@ -108,7 +108,7 @@ def load_judge_config(config_path):
     path = Path(config_path)
     if not path.exists():
         raise FileNotFoundError(
-            f"Judge configuration not found: {path}. Run scripts/run_evaluation.py to create it."
+            f"Judge configuration not found: {path}. Run scripts/run_scoring.py to create it."
         )
     with path.open("r", encoding="utf-8") as handle:
         config = json.load(handle)
