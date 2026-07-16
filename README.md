@@ -81,9 +81,6 @@ config/
 scripts/
   run_evaluation.py          # Unified client for model evaluation
   run_scoring.py              # Interactive end-to-end scoring runner
-  model_servers/              # FastAPI server demonstrations
-    BAGEL_demo.py
-    BLIP3o_demo.py
   auxiliary/
     common.py                 # Shared path, validation, and I/O helpers
     resolve_dynamic_answers.py # Dynamic MCQ answer resolution
