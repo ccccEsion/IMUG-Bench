@@ -99,6 +99,9 @@ config/
 scripts/
   run_evaluation.py          # Unified client for model evaluation
   run_scoring.py              # Interactive end-to-end scoring runner
+  model_servers/              # Reference model server implementations
+    BAGEL_demo.py
+    BLIP3o_demo.py
   auxiliary/
     common.py                 # Shared path, validation, and I/O helpers
     resolve_dynamic_answers.py # Dynamic MCQ answer resolution
@@ -195,59 +198,145 @@ IMUG-Bench spans three classes and 19 domains. The benchmark composition is summ
 
 ## Quickstart
 
-### 1. Run the Full Scoring Workflow
+### 1. Start a Model Server
 
-Place one or more model-output directories under `outputs/model_outputs/`, then run:
+`run_evaluation.py` is a model-independent client. Before running it, start a model-side server that implements the IMUG `/infer` protocol described in [Model Evaluation](#model-evaluation).
 
-```bash
-python scripts/run_scoring.py
+Two reference server demos are included:
+
+```text
+scripts/model_servers/
+  BAGEL_demo.py
+  BLIP3o_demo.py
 ```
 
-On first use, the runner asks for a judge API base URL, API key, judge model, and model-output directory. These values are stored only in `config/local_config.json`, which is excluded from version control. The workflow runs dynamic-answer resolution, image scoring, deterministic grid scoring, and MCQ scoring in order.
+They show how to load a specific model, convert the ordered IMUG conversation history into that model's input format, and return either text or a base64-encoded image. They are reference implementations rather than required model backends.
 
-If `--model-output-dir` itself contains the domain folders for one model, pass that model name with `--model`; the runner creates a temporary alias and keeps the original model outputs unchanged.
+Start the BAGEL demo:
 
-To update the local configuration:
+```bash
+IMUG_MODEL_PATH=/path/to/BAGEL \
+python scripts/model_servers/BAGEL_demo.py --port 8000
+```
+
+Start the BLIP3-o demo:
+
+```bash
+IMUG_MODEL_PATH=/path/to/BLIP3o \
+IMUG_PROCESSOR_PATH=/path/to/processor \
+python scripts/model_servers/BLIP3o_demo.py --port 8000
+```
+
+### 2. Run Model Evaluation
+
+The evaluation client reads the benchmark turn by turn, preserves the ordered `system → user → assistant` multimodal history, sends the complete history to the model server, and saves text and image outputs in the standard directory layout.
+
+A typical command is:
+
+```bash
+python scripts/run_evaluation.py \
+  --model MODEL_NAME \
+  --api-url http://127.0.0.1:8000/infer \
+  --benchmark data/benchmark.jsonl \
+  --images data/images \
+  --model-output-dir outputs/model_outputs
+```
+
+Evaluation outputs are written as:
+
+```text
+outputs/model_outputs/<model>/<domain>/<subdomain>/question_<sample_id>/
+  result.json
+  turn_<turn>_output.png
+```
+
+### 3. Run Scoring
+
+Place the evaluated model outputs under `outputs/model_outputs/`, then run:
+
+```bash
+python scripts/run_scoring.py --models <model>
+```
+
+Use `--model <model>` for a single model. If the selected path directly contains one model's domain folders, specify it with `--model-output-dir`:
+
+```bash
+python scripts/run_scoring.py \
+  --model MODEL_NAME \
+  --model-output-dir /path/to/MODEL_NAME_outputs
+```
+
+On first use, the runner asks for the judge API base URL, API key, judge model, and model-output directory. The local settings are stored in `config/local_config.json`, which is excluded from version control. Use the following command to enter them again:
 
 ```bash
 python scripts/run_scoring.py --reconfigure
 ```
 
-### 2. Run an Offline Pipeline Check
+The scoring workflow applies the following steps:
 
-No API key is required for a structural smoke test. The scoring runner validates the selected model-output directory, starts a temporary localhost OpenAI-compatible random judge server, and runs the standard dynamic-answer and image-scoring clients against it. Results are written to `outputs/smoke_test/<model>/`.
+1. **Dynamic MCQ:** a judge resolves the context-dependent reference answer from the referenced earlier model outputs.
+2. **Image generation:** a judge assigns a score from 0 to 5 to each evaluation point; the turn score is the mean point score divided by 5.
+3. **Grid domain:** `score_grid.py` performs separate rule-based scoring against the grid ground truth. This deterministic scorer is used because it is more reliable for geometric-coloring outputs than a general judge model.
+4. **MCQ scoring:** static answers and resolved dynamic answers are scored by matching option letters, with an additional output-format weight.
 
-```bash
-python scripts/run_scoring.py --smoke-test --models <model> --seed 2026
+The original model outputs remain unchanged. Intermediate and scoring artifacts are stored by model:
+
+```text
+outputs/<model>/
+  dynamic_answer/<model>_dynamic_answer.jsonl
+  score_img/<model>_img_score.jsonl
+  score_mcq/<model>_mcq_score.jsonl
+  summary/
 ```
 
-Use `--smoke-port <port>` to select the local server port; the default `0` selects an available port automatically.
+#### Scoring Smoke Test
 
-`--model` is an alias for a single evaluated model directory name. If the selected path itself is the model root and directly contains domain folders, it can be used as follows:
+The smoke test checks whether the output paths, result files, referenced images, and scoring pipeline can be read correctly **without connecting to a real judge model**. It starts a temporary local random judge, so its numerical scores are not meaningful; use it only to inspect pipeline and path correctness.
 
 ```bash
 python scripts/run_scoring.py \
   --smoke-test \
-  --model bageltest \
-  --model-output-dir ../BAGEL/
+  --models <model> \
+  --seed 2026
 ```
 
-The runner creates a temporary local alias for this layout and leaves the original model outputs unchanged.
+Smoke-test artifacts are written separately to:
 
-### 3. Summarize Results
+```text
+outputs/smoke_test/<model>/
+```
+
+Use `--smoke-port <port>` to choose the local mock-judge port. The default value `0` automatically selects an available port.
+
+For a model directory outside the default output root:
+
+```bash
+python scripts/run_scoring.py \
+  --smoke-test \
+  --model MODEL_NAME \
+  --model-output-dir /path/to/MODEL_NAME_outputs
+```
+
+### 4. Summarize Results
 
 ```bash
 python scripts/auxiliary/summarize_results.py --models <model>
 ```
 
-For a single model, the summary is written by default to `outputs/<model>/summary/summary.md` and `outputs/<model>/summary/summary.json`. When summarizing multiple models together, it is written to `outputs/summary/`. The repository includes the paper-defined class mapping in `config/domain_classes.json`, which is loaded automatically. Use `--class-config` only when applying a custom mapping:
+For one model, the summary is written to:
+
+```text
+outputs/<model>/summary/summary.md
+outputs/<model>/summary/summary.json
+```
+
+When multiple models are summarized together, the combined files are written to `outputs/summary/`. The default class mapping is loaded from `config/domain_classes.json`; use `--class-config` only when providing a custom mapping:
 
 ```bash
 python scripts/auxiliary/summarize_results.py \
   --models <model> \
   --class-config config/domain_classes.json
 ```
-
 ## Citation
 
 ```bibtex
